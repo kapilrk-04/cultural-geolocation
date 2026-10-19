@@ -1,0 +1,234 @@
+{"id": "5865763624275434538_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272492419_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644276435007_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271452076_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274290103_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634275286805_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Indonesia", "correct": false, "raw_output": "{\"country\": \"Indonesia\"}"}
+{"id": "5865763644271725468_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763624272689576_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "New Zealand", "correct": false, "raw_output": "{\"country\": \"New Zealand\"}"}
+{"id": "5865763644274433843_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273853443_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634278551637_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644279885813_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Cuba", "correct": false, "raw_output": "{\"country\": \"Cuba\"}"}
+{"id": "5865763624279390618_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278700139_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634275927134_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278315141_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278825030_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271820245_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274365122_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278889118_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272568367_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279246676_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271452076_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272251932_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279284234_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865763634274323742_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634271169628_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644271725468_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763634272437003_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273465213_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763624272635994_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276071564_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763644276435007_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278087974_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624279807371_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273465213_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279101357_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274892767_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763624277304898_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763624271896742_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763644274365122_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276264087_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624272689576_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "New Zealand", "correct": false, "raw_output": "{\"country\": \"New Zealand\"}"}
+{"id": "5865763644278136304_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273086013_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634274440294_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624278793741_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634271112154_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271586859_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Australia", "correct": false, "raw_output": "{\"country\": \"Australia\"}"}
+{"id": "5865763644274433843_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278800608_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274768859_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276097088_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276730623_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763644273812253_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279284234_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279390618_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634275927134_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763624277225916_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624277225916_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634271114258_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273073105_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279895046_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274433843_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272251932_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279895046_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276468061_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644279981109_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634277613652_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865763624271464303_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865763624276328465_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634277613652_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865763624275721461_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276118699_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624274422825_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279039170_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279101357_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634271114258_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272026349_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279172394_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624279284234_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624275246517_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634277946879_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279935143_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634276730623_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276118699_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624275246517_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644275213874_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275448655_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275286805_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634274290103_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634275486277_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763634273369624_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274911920_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279670509_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763634276478436_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865763634274290103_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634275530030_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634276680538_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279172394_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624274933792_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276326151_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Israel", "correct": false, "raw_output": "{\"country\": \"Israel\"}"}
+{"id": "5865763634275286805_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624275246517_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279807371_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276071564_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634273132481_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763624277304898_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Germany", "correct": false, "raw_output": "{\"country\": \"Germany\"}"}
+{"id": "5865763634271531496_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763624274129142_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763624279895046_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276264087_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279039170_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634271531496_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763644278136304_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763644279885813_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273132481_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276264087_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274082057_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279670509_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763624272546329_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276097088_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275828724_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273516958_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274768859_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278800608_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276328465_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763634274323742_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763624278843884_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865763624271820245_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763644273812253_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278315141_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276468061_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634271112154_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624274129142_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634271507409_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Australia", "correct": false, "raw_output": "{\"country\": \"Australia\"}"}
+{"id": "5865763634273465213_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276089741_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624272635994_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Ireland", "correct": false, "raw_output": "{\"country\": \"Ireland\"}"}
+{"id": "5865763634274911920_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763624278793741_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763624276409578_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763634276303951_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276438248_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275530030_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279588275_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272026349_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273073105_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279807371_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624272546329_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271586859_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Australia", "correct": false, "raw_output": "{\"country\": \"Australia\"}"}
+{"id": "5865763644279981109_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273862781_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634275828724_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Japan", "correct": false, "raw_output": "{\"country\": \"Japan\"}"}
+{"id": "5865763624273862781_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634272492419_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634277613652_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Morocco", "correct": false, "raw_output": "{\"country\": \"Morocco\"}"}
+{"id": "5865763634278087974_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273176976_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763624271860700_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634274323742_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271452076_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276792550_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279935143_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271586859_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634279233004_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276498549_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278800608_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634275486277_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274892767_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644278136304_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273853443_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634272396259_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763624271860700_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634278825030_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271820245_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865763634278567253_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275425327_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865763634279588275_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634274892767_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276300923_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278551637_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275157079_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865763634276438344_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634276438248_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624278793741_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273853443_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276056460_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272437003_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763644271725468_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763634278310456_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273516958_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644275213874_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865763624271464303_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624274933792_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276478436_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763634272026349_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276326151_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278551637_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624275721461_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634276792550_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624276409578_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865763624273086013_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624272546329_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273369624_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271896742_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273516958_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865763634279246676_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Argentina", "correct": false, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865763624273176976_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865763624273862781_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624276097088_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279233004_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624273086013_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624274422825_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634275425327_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634273369624_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634278889118_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274365122_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624275721461_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276438344_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624271860700_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276680538_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Russia", "correct": false, "raw_output": "{\"country\": \"Russia\"}"}
+{"id": "5865763634274082057_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644274768859_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634276089741_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763624279935143_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865763634277946879_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272396259_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763624279390618_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634272973356_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763634276557657_0", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763644279885813_2", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Chile", "correct": true, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865763634279670509_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865763624279172394_1", "split": "es_chl", "experiment": "image_english", "ground_truth": "Chile", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}

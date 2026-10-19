@@ -1,0 +1,265 @@
+{"id": "5865906684271495103_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694275154866_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906684277055995_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684273853254_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704273412570_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694277480035_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704275238358_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906694275223095_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275154866_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906684271530805_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694279109172_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906684273853254_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277015551_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694277980502_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906694275679169_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906694278624080_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704271395140_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Israel", "correct": false, "raw_output": "{\"country\": \"Israel\"}"}
+{"id": "5865906684279758813_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694275223095_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275854211_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684272670996_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Nepal", "correct": false, "raw_output": "{\"country\": \"Nepal\"}"}
+{"id": "5865906684276238934_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906694278174168_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694274135431_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684273061921_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275356977_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694274408133_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906674276054833_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Germany", "correct": false, "raw_output": "{\"country\": \"Germany\"}"}
+{"id": "5865906694275411952_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694276641814_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906694277650510_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694272173344_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906684279932040_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694273732151_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275407635_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704276093868_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684272140629_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906684275575660_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694275411952_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684273453386_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275266438_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865906704273915125_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906684278158593_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275080164_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684271167446_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694279374298_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704273762585_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906704273498207_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704275530573_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277015551_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274026608_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694279911988_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694274895318_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694277050073_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906694278624080_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906704271196903_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906694274367403_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684272717713_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278408456_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694274895318_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684276238934_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906694273345641_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704272292924_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906684279932040_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704274587741_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704273498207_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694279374298_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694274812854_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906694271024489_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694273732151_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274089279_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278408456_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694273634199_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684277675785_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704277178087_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694274408133_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684275266438_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865906694279374298_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694271024489_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704274026608_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906704279742276_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906684278599832_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275524056_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684271167446_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275327857_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694271882162_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906674278395284_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684273392884_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684274432443_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278227433_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704276288091_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684274432443_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278599832_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278942089_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906684277015551_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694277980502_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906684271169780_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906674278395284_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704276288091_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684274432443_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278805582_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694278986083_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277329726_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906684277907632_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275290282_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694274367403_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684275975097_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Ecuador", "correct": false, "raw_output": "{\"country\": \"Ecuador\"}"}
+{"id": "5865906684272717713_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704277837483_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906704271336553_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684278127703_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906684277451329_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274628907_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704276480371_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275080164_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694272173344_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906684274459652_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704271336553_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704271897117_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Colombia", "correct": false, "raw_output": "{\"country\": \"Colombia\"}"}
+{"id": "5865906694273042102_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Turkey", "correct": false, "raw_output": "{\"country\": \"Turkey\"}"}
+{"id": "5865906694277050073_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906684277675785_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694272932443_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274867961_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Namibia", "correct": false, "raw_output": "{\"country\": \"Namibia\"}"}
+{"id": "5865906684278805582_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684271530805_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684273870982_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684272140629_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906704279026690_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694274135431_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704271395140_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Israel", "correct": false, "raw_output": "{\"country\": \"Israel\"}"}
+{"id": "5865906684275575660_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694278615997_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694278623635_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906704271395140_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Israel", "correct": false, "raw_output": "{\"country\": \"Israel\"}"}
+{"id": "5865906684274260462_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694278624080_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277055995_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694277003841_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684271372909_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906694275640412_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Poland", "correct": false, "raw_output": "{\"country\": \"Poland\"}"}
+{"id": "5865906704273915125_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906704275674653_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684279139450_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Cuba", "correct": false, "raw_output": "{\"country\": \"Cuba\"}"}
+{"id": "5865906694277480035_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684276238934_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906694273345641_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684279742112_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Turkey", "correct": false, "raw_output": "{\"country\": \"Turkey\"}"}
+{"id": "5865906694277980199_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704273874799_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275411952_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274061137_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694271253620_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Australia", "correct": false, "raw_output": "{\"country\": \"Australia\"}"}
+{"id": "5865906704276093868_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684273527392_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704274089279_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694278986083_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694276355746_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694275854211_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694271253620_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Australia", "correct": false, "raw_output": "{\"country\": \"Australia\"}"}
+{"id": "5865906694273497819_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278599832_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684274085071_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704276246279_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906684273525755_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865906684271450654_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684278451195_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906694276641814_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906694274885110_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865906704274867961_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Namibia", "correct": false, "raw_output": "{\"country\": \"Namibia\"}"}
+{"id": "5865906704277178087_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694277017732_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906704278735994_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694274066710_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684271450654_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694273634199_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704279039679_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Bolivia", "correct": false, "raw_output": "{\"country\": \"Bolivia\"}"}
+{"id": "5865906684273840468_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694275223095_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694273497819_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704279026690_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694274673836_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906694277050073_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906684278227433_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704278735994_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704273498207_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704277837483_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906684271169780_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684275157269_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865906704273762585_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906694276355746_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277907632_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704275392709_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Greece", "correct": false, "raw_output": "{\"country\": \"Greece\"}"}
+{"id": "5865906684273870982_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684271302291_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694276039743_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906704274587741_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694276355746_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704275392709_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Greece", "correct": false, "raw_output": "{\"country\": \"Greece\"}"}
+{"id": "5865906684279139450_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Cuba", "correct": false, "raw_output": "{\"country\": \"Cuba\"}"}
+{"id": "5865906684277293473_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906694274812854_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906684273853254_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694271024489_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906684271371396_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704273412570_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694278623635_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Spain", "correct": false, "raw_output": "{\"country\": \"Spain\"}"}
+{"id": "5865906684278896891_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865906704276480371_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684274918927_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906694272173344_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906694276039743_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906694279109172_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906674276054833_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Germany", "correct": false, "raw_output": "{\"country\": \"Germany\"}"}
+{"id": "5865906694275567289_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684275575660_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694273732151_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694276039743_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Brazil", "correct": false, "raw_output": "{\"country\": \"Brazil\"}"}
+{"id": "5865906694275567289_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906674274656415_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865906684275975097_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Ecuador", "correct": false, "raw_output": "{\"country\": \"Ecuador\"}"}
+{"id": "5865906704271196903_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Chile", "correct": false, "raw_output": "{\"country\": \"Chile\"}"}
+{"id": "5865906694279911988_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906704275674653_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694277017732_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "France", "correct": false, "raw_output": "{\"country\": \"France\"}"}
+{"id": "5865906704275530573_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684274053240_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906684279742112_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Turkey", "correct": false, "raw_output": "{\"country\": \"Turkey\"}"}
+{"id": "5865906694275640412_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Poland", "correct": false, "raw_output": "{\"country\": \"Poland\"}"}
+{"id": "5865906694277650510_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704274026608_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906684272561411_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906684277605314_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "China", "correct": false, "raw_output": "{\"country\": \"China\"}"}
+{"id": "5865906704273915125_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906684274085071_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694278615997_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704272292924_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906674276054833_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Germany", "correct": false, "raw_output": "{\"country\": \"Germany\"}"}
+{"id": "5865906694277480035_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694273497819_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694277003841_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906694277830897_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694277650510_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277107356_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Mexico", "correct": false, "raw_output": "{\"country\": \"Mexico\"}"}
+{"id": "5865906684277985832_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Canada", "correct": false, "raw_output": "{\"country\": \"Canada\"}"}
+{"id": "5865906694275567289_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694277980199_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694274895318_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704278735994_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694274673836_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United Kingdom", "correct": false, "raw_output": "{\"country\": \"United Kingdom\"}"}
+{"id": "5865906684278896891_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "India", "correct": false, "raw_output": "{\"country\": \"India\"}"}
+{"id": "5865906704279742276_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694277830897_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906694278095875_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684277675785_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
+{"id": "5865906704274628907_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704273874799_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704271897117_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Colombia", "correct": false, "raw_output": "{\"country\": \"Colombia\"}"}
+{"id": "5865906694271882162_1", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906694271882162_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906704279039679_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Bolivia", "correct": false, "raw_output": "{\"country\": \"Bolivia\"}"}
+{"id": "5865906704271336553_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "United States", "correct": false, "raw_output": "{\"country\": \"United States\"}"}
+{"id": "5865906704279742276_2", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Peru", "correct": false, "raw_output": "{\"country\": \"Peru\"}"}
+{"id": "5865906694272932443_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Argentina", "correct": true, "raw_output": "{\"country\": \"Argentina\"}"}
+{"id": "5865906684276682366_0", "split": "es_arg", "experiment": "image_only", "ground_truth": "Argentina", "predicted": "Italy", "correct": false, "raw_output": "{\"country\": \"Italy\"}"}
