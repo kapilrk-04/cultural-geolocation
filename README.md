@@ -17,7 +17,7 @@ Each prompt asks the model to reply with `{"country": "<country_name>"}`. The pr
 ### Results (all splits)
 
 | Experiment |  Accuracy | "United States" predictions |
-|---|---|---|---|
+|---|---|---|
 | `image_only` | 0.561 | 433 |
 | `image_english` | 0.760 | 172 |
 | `image_regional` |  0.859 | 24 |
