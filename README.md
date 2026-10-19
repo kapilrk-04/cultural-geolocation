@@ -16,12 +16,12 @@ Each prompt asks the model to reply with `{"country": "<country_name>"}`. The pr
 
 ### Results (all splits)
 
-| Experiment | Correct / Total | Accuracy | "United States" predictions |
+| Experiment |  Accuracy | "United States" predictions |
 |---|---|---|---|
-| `image_only` | 3266 / 5817 | 0.561 | 433 |
-| `image_english` | 4422 / 5817 | 0.760 | 172 |
-| `image_regional` | 4770 / 5552 | 0.859 | 24 |
-| `textonly_regional` | 4671 / 5817 | 0.803 | 9 |
+| `image_only` | 0.561 | 433 |
+| `image_english` | 0.760 | 172 |
+| `image_regional` |  0.859 | 24 |
+| `textonly_regional` |  0.803 | 9 |
 
 `image_regional` has no results for `es_arg` (22 of the 23 splits). Per-example predictions are in `results/<experiment>/<split>.jsonl`, one record per line:
 
