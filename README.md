@@ -23,7 +23,7 @@ Each prompt asks the model to reply with `{"country": "<country_name>"}`. The pr
 | `image_regional` |  0.859 | 24 |
 | `textonly_regional` |  0.803 | 9 |
 
-`image_regional` has no results for `es_arg` (22 of the 23 splits). Per-example predictions are in `results/<experiment>/<split>.jsonl`, one record per line:
+Per-example predictions are in `results/<experiment>/<split>.jsonl`, one record per line:
 
 ```json
 {"id": "...", "split": "amh_eth", "experiment": "image_only", "ground_truth": "Ethiopia",
